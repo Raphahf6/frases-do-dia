@@ -1,4 +1,10 @@
-# frases_do_dia
+# frases_do_dia, desenvolvido durante curso de flutter
+
+
+
+
+![image](https://user-images.githubusercontent.com/39925526/149040523-66450997-ab40-4ee8-9335-5d4c6172f15f.png)
+
 
 A new Flutter project.
 
